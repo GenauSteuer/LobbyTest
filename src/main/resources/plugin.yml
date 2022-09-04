@@ -1,0 +1,6 @@
+name: Lobby
+main: de.mario.lobby.LobbyPlugin
+version: 1.0
+author: Mario
+commands:
+  setup:
